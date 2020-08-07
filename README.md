@@ -21,11 +21,11 @@ First off... Duh.
 
 If I have to explain why this is a necessity, you may be seeking the wrong line of work, jk.  Anyway, either way, in order of preference just for shits and giggles.  Adding links here just to maintain consistency.
 
-[Chrome](https://www.google.com/chrome/) *(This is more or less the industry standard)*
-[Chrome Canary](https://www.google.com/chrome/canary/) *(Nightly built with cutting edge features)*
-[Firefox](https://www.mozilla.org/en-US/firefox/new/) *(Speaks for itself)*
-[Firefox Developer Version](https://www.mozilla.org/en-US/firefox/developer/) *(Did you know that they had a development version??)*
-[Opera Browser](https://www.opera.com/) *(I mean... If you REALLY want to... Based on Chromium)*
+- [Chrome](https://www.google.com/chrome/) *(This is more or less the industry standard)*
+- [Chrome Canary](https://www.google.com/chrome/canary/) *(Nightly built with cutting edge features)*
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/) *(Speaks for itself)*
+- [Firefox Developer Version](https://www.mozilla.org/en-US/firefox/developer/) *(Did you know that they had a development version??)*
+- [Opera Browser](https://www.opera.com/) *(I mean... If you REALLY want to... Based on Chromium)*
 
 ***Note:** Microsoft Edge isn't listed here for what I would hope would be obvious reasons...*
 
